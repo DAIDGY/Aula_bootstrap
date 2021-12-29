@@ -1,0 +1,43 @@
+body{
+    font: 20px, arial, sans-serif;
+    color:#01012F
+    
+}
+
+.navbar{
+    background-color: #0A0A2A;
+}
+
+.quem-somos{
+    background-color: #E6E6E6;
+    color: #01012F;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.servicos{
+    background-color: #FF5D00;
+    color: #01012F;
+    padding-top: 50px;
+    
+}
+/**.row{
+    width: 100%;
+    height: 100%;
+}**/
+.portifolio{
+    background-color: #E6E6E6;
+    color: #01012F;
+    padding-top: 50px;
+    
+}
+.bg-footer{
+    background-color: #01012F;
+    color: white;
+}
+.nav-item{
+    color: #E6E6E6;
+    
+}
